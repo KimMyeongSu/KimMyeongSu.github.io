@@ -51,4 +51,4 @@ Thanks
 [bootstrap-url]: http://getbootstrap.com/
 [github-url]: https://github.com/
 [Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
-[xixia-url]: http://xixia.info/
+[xixia-url]: http://xixia.info/# KimMyeongSu.github.io
